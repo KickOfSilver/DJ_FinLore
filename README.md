@@ -54,12 +54,12 @@ Os locais atualmente disponíveis são:
 
 * 🎶 Usando URL do YouTube
 
-`/play youtube_link`
+`!!play youtube_link`
 
 * 🔎 Tocando música via nome
 
-`/play Marshmello, Khalid - Numb`
+`!!play Marshmello, Khalid - Numb`
 
 * 🔎 Pesquise e reproduza
 
-`/search Imperial March Trap Remix by Goblins from Mars`
+`!!search Imperial March Trap Remix by Goblins from Mars`
