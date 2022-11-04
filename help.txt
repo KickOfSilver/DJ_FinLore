@@ -1,0 +1,8 @@
+0# link = https://github.com/KickOfSilver/DJ_FinLore
+
+1# link = https://discord.com/developers/applications
+
+2# link = https://console.cloud.google.com/home/dashboard?pli=1&project
+2# help = https://developers.google.com/youtube/v3/getting-started
+
+3# video = https://drive.google.com/drive/folders/1elroDesI1V5iL2WySQqwYfE68cDCM5rO?usp=share_link
