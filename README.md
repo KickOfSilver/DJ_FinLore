@@ -5,8 +5,8 @@
 
 ## Instalação
 
-1. Como obter um token de bot de discórdia **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot**
-2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
+1. Como obter um token de bot de discórdia **[Guia](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot**
+2. YouTube Data API v3 Key **[Guia](https://developers.google.com/youtube/v3/getting-started)**  
 3. SoundCloud não fornece mais API**
 4. Node.js v12.0.0 ou mais recente
 
