@@ -39,14 +39,14 @@ Digite (npm i) no console
 
 Os locais atualmente disponíveis são:
 
-• English (en)
-• French (fr)
-• Spanish (es)
-• Turkish (tr)
-• Korean (ko)
-• Brazilian Portuguese (pt_br)
-• Simplified Chinese (zh_cn)
-• Traditional Chinese (zh_tw)
+* English (en)
+* French (fr)
+* Spanish (es)
+* Turkish (tr)
+* Korean (ko)
+* Brazilian Portuguese (pt_br)
+* Simplified Chinese (zh_cn)
+* Traditional Chinese (zh_tw)
 
 ## 📝 Features & Commands
 
