@@ -1,26 +1,26 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-# 🎵 GEAR (Discord Music Bot)
-> ProMusic is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
+# 🎵 Finlore (Discord Music Bot)
+> DJ FinL é um bot feito usando discord.js [discordjs.guide](https://discordjs.guide)
 
-## Installation
+## Instalação
 
-1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+1. Como obter um token de bot de discórdia **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot**
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
-3. SoundCloud doesn't provide API anymore**
-4. Node.js v12.0.0 or newer
+3. SoundCloud não fornece mais API**
+4. Node.js v12.0.0 ou mais recente
 
 ---
 
-## 🔎 Making The Project
+## 🔎 Fazendo o projeto
 
-After installation finishes you can use `node index.js` to start the bot.
+Após o acabamento da instalação, você pode usar `node index.js` para iniciar o bot.
 
 ```
-Type (npm i) in console
+Digite (npm i) no console
 ```
 
-🚨🚨 **Commiting your token to be accessed by others or making it public is strictly prohibited.So, dont share your token in any cost or use .gitignore to hide secrets** 🚨🚨
+🚨🚨 **não compartilhe seu token para outras pessoas ou torná-lo público é estritamente proibido. Então, não compartilhe seu token a nenhum custo ou use .gitignore para ocultar segredos** 🚨🚨
 
 ```json
 {
@@ -31,13 +31,13 @@ Type (npm i) in console
   "PREFIX": "/",
   "PRUNING": false,
   "STAY_TIME": 30,
-  "LOCALE": "en",
+  "LOCALE": "pt_br",
   "support_server": "",
   "DEFAULT_VOLUME": 100
 }
 ```
 
-Currently available locales are:
+Os locais atualmente disponíveis são:
 
 • English (en)
 • French (fr)
@@ -50,21 +50,16 @@ Currently available locales are:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is '/'
+> Nota: o prefixo padrão é '!!'
 
-* 🎶 Using YouTube Url
+* 🎶 Usando URL do YouTube
 
-`/play https://www.youtube.com/c/ScienceGearYT`
+`/play youtube_link`
 
-* 🔎 Playing music via Name
+* 🔎 Tocando música via nome
 
-`/play FatRat Fire`
+`/play Marshmello, Khalid - Numb`
 
-* 🔎 Search and play
+* 🔎 Pesquise e reproduza
 
 `/search Imperial March Trap Remix by Goblins from Mars`
-
-
-
-Get GEAR repo here - 
-https://github.com/ScienceGear/Gear
