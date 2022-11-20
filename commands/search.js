@@ -8,6 +8,7 @@ i18n.setLocale(LOCALE);
 
 module.exports = {
   name: "search",
+  aliases: ["ps"],
   description: i18n.__("search.description"),
   async execute(message, args) {
     if (!args.length)

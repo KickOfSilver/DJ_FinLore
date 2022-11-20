@@ -5,6 +5,7 @@ i18n.setLocale(LOCALE);
 
 module.exports = {
   name: "shuffle",
+  aliases: ["sh"],
   description: i18n.__('shuffle.description'),
   execute(message) {
     const queue = message.client.queue.get(message.guild.id);
@@ -18,6 +19,6 @@ module.exports = {
     }
     queue.songs = songs;
     message.client.queue.set(message.guild.id, queue);
-    queue.textChannel.send(i18n.__mf('shuffle.result', {author: message.author})).catch(console.error);
+    queue.textChannel.send(i18n.__mf('shuffle.result', { author: message.author })).catch(console.error);
   }
 };
